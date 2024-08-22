@@ -1,0 +1,15 @@
+.container {
+    border: 1px solid rgb(198, 184, 184);
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.isOnline {
+    color: green;
+}
+
+.isOffline {
+    color: red;
+}
